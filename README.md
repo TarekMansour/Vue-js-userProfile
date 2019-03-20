@@ -1,2 +1,4 @@
 # Vue-js-userProfile
-Demo
+## User Profile
+UI-Design for user account profile and call the component externally 
+
